@@ -1,0 +1,5 @@
+in your IDE, go to the project, right click on the project -> Build Path section.
+
+in it go to -> Configure Path -> Libraries -> Add external JARs... -> insert the required jar files and click Apply.
+
+Done..
